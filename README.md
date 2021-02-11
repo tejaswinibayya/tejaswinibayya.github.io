@@ -7,4 +7,4 @@
 - C Programming
 - Version Control System(Git & Github)
 ## Certifications:
-- Attended 2 days training program on Source Code Management using Git & Github conducted by APSSDC at my College
+-Attended 2 days training program on Source Code Management using Git & Github conducted by APSSDC at my College
