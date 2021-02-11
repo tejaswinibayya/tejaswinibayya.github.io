@@ -1,6 +1,6 @@
 # Tejaswinibayya
 ## Educational Details:
-**Branch,Year:**CST, 1st Year
+**Branch,Year:** CST, 1st Year
 **College Name:**Sri Vasavi Engineering College
 ## Skills:
 
